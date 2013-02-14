@@ -7,6 +7,7 @@
 //
 
 #import "Assignment3DetailViewController.h"
+#import "Fruit.h"
 
 @interface Assignment3DetailViewController ()
 
